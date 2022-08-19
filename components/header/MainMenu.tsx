@@ -14,7 +14,12 @@ import { FaChevronDown, FaEnvelope } from "react-icons/fa";
 
 const MainMenu = () => {
 	return (
-		<Stack direction={"row"} spacing={4} textTransform="uppercase">
+		<Stack
+			direction={"row"}
+			spacing={4}
+			textTransform="uppercase"
+			display={{ sm: "none", md: "flex" }}
+		>
 			<Box shadow="2xl">
 				<Link
 					href="#"
