@@ -1,0 +1,9 @@
+.bannerContainer {
+	position: relative;
+}
+.bannerHeading {
+	position: absolute;
+	left: 50%;
+	top: 60%;
+	transform: translateX(-50%);
+}
