@@ -12,7 +12,7 @@ import React from "react";
 const HeaderTop = () => {
 	return (
 		<Flex
-			paddingX="36"
+			paddingX="20"
 			paddingY="2"
 			background="gray.700"
 			justify="space-between"
