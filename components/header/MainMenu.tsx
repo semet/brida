@@ -26,7 +26,7 @@ const MainMenu = () => {
 					fontSize="md"
 					fontWeight="medium"
 					color="gray.500"
-					_hover={{ textDecoration: "none", color: "brand.100" }}
+					_hover={{ textDecoration: "none", color: "brida.100" }}
 				>
 					Home
 				</Link>
@@ -40,7 +40,7 @@ const MainMenu = () => {
 							fontSize="md"
 							fontWeight="medium"
 							color="gray.500"
-							_hover={{ textDecoration: "none", color: "brand.100" }}
+							_hover={{ textDecoration: "none", color: "brida.100" }}
 						>
 							Profile
 						</Link>
@@ -55,25 +55,25 @@ const MainMenu = () => {
 					>
 						<PopoverArrow />
 						<Stack>
-							<Link _hover={{ textDecoration: "none", color: "brand.100" }}>
+							<Link _hover={{ textDecoration: "none", color: "brida.100" }}>
 								Profil Badan
 							</Link>
-							<Link _hover={{ textDecoration: "none", color: "brand.100" }}>
+							<Link _hover={{ textDecoration: "none", color: "brida.100" }}>
 								Profil Kepala Badan
 							</Link>
-							<Link _hover={{ textDecoration: "none", color: "brand.100" }}>
+							<Link _hover={{ textDecoration: "none", color: "brida.100" }}>
 								Pofil Sekertaris Badan
 							</Link>
-							<Link _hover={{ textDecoration: "none", color: "brand.100" }}>
+							<Link _hover={{ textDecoration: "none", color: "brida.100" }}>
 								Profil Bidang
 							</Link>
-							<Link _hover={{ textDecoration: "none", color: "brand.100" }}>
+							<Link _hover={{ textDecoration: "none", color: "brida.100" }}>
 								Struktur Organisasi
 							</Link>
-							<Link _hover={{ textDecoration: "none", color: "brand.100" }}>
+							<Link _hover={{ textDecoration: "none", color: "brida.100" }}>
 								Kalender Kegiatan
 							</Link>
-							<Link _hover={{ textDecoration: "none", color: "brand.100" }}>
+							<Link _hover={{ textDecoration: "none", color: "brida.100" }}>
 								Maklumat Pelayan
 							</Link>
 						</Stack>
@@ -87,7 +87,7 @@ const MainMenu = () => {
 					fontSize="md"
 					fontWeight="medium"
 					color="gray.500"
-					_hover={{ textDecoration: "none", color: "brand.100" }}
+					_hover={{ textDecoration: "none", color: "brida.100" }}
 				>
 					Berita
 				</Link>
@@ -99,7 +99,7 @@ const MainMenu = () => {
 					fontSize="md"
 					fontWeight="medium"
 					color="gray.500"
-					_hover={{ textDecoration: "none", color: "brand.100" }}
+					_hover={{ textDecoration: "none", color: "brida.100" }}
 				>
 					Program
 				</Link>
@@ -111,7 +111,7 @@ const MainMenu = () => {
 					fontSize="md"
 					fontWeight="medium"
 					color="gray.500"
-					_hover={{ textDecoration: "none", color: "brand.100" }}
+					_hover={{ textDecoration: "none", color: "brida.100" }}
 				>
 					Mitra
 				</Link>
@@ -123,7 +123,7 @@ const MainMenu = () => {
 					fontSize="md"
 					fontWeight="medium"
 					color="gray.500"
-					_hover={{ textDecoration: "none", color: "brand.100" }}
+					_hover={{ textDecoration: "none", color: "brida.100" }}
 				>
 					PPID
 				</Link>
@@ -135,7 +135,7 @@ const MainMenu = () => {
 					fontSize="md"
 					fontWeight="medium"
 					color="gray.500"
-					_hover={{ textDecoration: "none", color: "brand.100" }}
+					_hover={{ textDecoration: "none", color: "brida.100" }}
 				>
 					Layanan
 				</Link>
@@ -147,7 +147,7 @@ const MainMenu = () => {
 					fontSize="md"
 					fontWeight="medium"
 					color="gray.500"
-					_hover={{ textDecoration: "none", color: "brand.100" }}
+					_hover={{ textDecoration: "none", color: "brida.100" }}
 				>
 					Edukasi
 				</Link>
