@@ -23,6 +23,13 @@ const theme = extendTheme({
 		xl: "1200px",
 		"2xl": "1536px",
 	},
+	styles: {
+		global: () => ({
+			body: {
+				bg: "gray.50",
+			},
+		}),
+	},
 });
 
 export default theme;

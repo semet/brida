@@ -26,7 +26,15 @@ const MainMenu = () => {
 					fontSize="md"
 					fontWeight="medium"
 					color="gray.500"
-					_hover={{ textDecoration: "none", color: "brida.100" }}
+					transition={"all .30s ease-in-out"}
+					_hover={{
+						textDecoration: "none",
+						color: "brida.100",
+						bgGradient: "linear(to-r, gray.100, gray.300)",
+						bgRepeat: "no-repeat",
+						bgSize: "100% 0.7em",
+						bgPosition: "0 88%",
+					}}
 				>
 					Home
 				</Link>
@@ -40,15 +48,23 @@ const MainMenu = () => {
 							fontSize="md"
 							fontWeight="medium"
 							color="gray.500"
-							_hover={{ textDecoration: "none", color: "brida.100" }}
+							transition={"all .30s ease-in-out"}
+							_hover={{
+								textDecoration: "none",
+								color: "brida.100",
+								bgGradient: "linear(to-r, gray.100, gray.300)",
+								bgRepeat: "no-repeat",
+								bgSize: "100% 0.7em",
+								bgPosition: "0 88%",
+							}}
 						>
 							Profile
 						</Link>
 					</PopoverTrigger>
 					<PopoverContent
 						border={0}
-						boxShadow={"sm"}
-						bg="gray.50"
+						boxShadow={"md"}
+						bg="white"
 						p={4}
 						rounded={"xl"}
 						minW={"sm"}
@@ -87,7 +103,15 @@ const MainMenu = () => {
 					fontSize="md"
 					fontWeight="medium"
 					color="gray.500"
-					_hover={{ textDecoration: "none", color: "brida.100" }}
+					transition={"all .30s ease-in-out"}
+					_hover={{
+						textDecoration: "none",
+						color: "brida.100",
+						bgGradient: "linear(to-r, gray.100, gray.300)",
+						bgRepeat: "no-repeat",
+						bgSize: "100% 0.7em",
+						bgPosition: "0 88%",
+					}}
 				>
 					Berita
 				</Link>
@@ -99,7 +123,15 @@ const MainMenu = () => {
 					fontSize="md"
 					fontWeight="medium"
 					color="gray.500"
-					_hover={{ textDecoration: "none", color: "brida.100" }}
+					transition={"all .30s ease-in-out"}
+					_hover={{
+						textDecoration: "none",
+						color: "brida.100",
+						bgGradient: "linear(to-r, gray.100, gray.300)",
+						bgRepeat: "no-repeat",
+						bgSize: "100% 0.7em",
+						bgPosition: "0 88%",
+					}}
 				>
 					Program
 				</Link>
@@ -111,7 +143,15 @@ const MainMenu = () => {
 					fontSize="md"
 					fontWeight="medium"
 					color="gray.500"
-					_hover={{ textDecoration: "none", color: "brida.100" }}
+					transition={"all .30s ease-in-out"}
+					_hover={{
+						textDecoration: "none",
+						color: "brida.100",
+						bgGradient: "linear(to-r, gray.100, gray.300)",
+						bgRepeat: "no-repeat",
+						bgSize: "100% 0.7em",
+						bgPosition: "0 88%",
+					}}
 				>
 					Mitra
 				</Link>
@@ -123,7 +163,15 @@ const MainMenu = () => {
 					fontSize="md"
 					fontWeight="medium"
 					color="gray.500"
-					_hover={{ textDecoration: "none", color: "brida.100" }}
+					transition={"all .30s ease-in-out"}
+					_hover={{
+						textDecoration: "none",
+						color: "brida.100",
+						bgGradient: "linear(to-r, gray.100, gray.300)",
+						bgRepeat: "no-repeat",
+						bgSize: "100% 0.7em",
+						bgPosition: "0 88%",
+					}}
 				>
 					PPID
 				</Link>
@@ -135,7 +183,15 @@ const MainMenu = () => {
 					fontSize="md"
 					fontWeight="medium"
 					color="gray.500"
-					_hover={{ textDecoration: "none", color: "brida.100" }}
+					transition={"all .30s ease-in-out"}
+					_hover={{
+						textDecoration: "none",
+						color: "brida.100",
+						bgGradient: "linear(to-r, gray.100, gray.300)",
+						bgRepeat: "no-repeat",
+						bgSize: "100% 0.7em",
+						bgPosition: "0 88%",
+					}}
 				>
 					Layanan
 				</Link>
@@ -147,7 +203,15 @@ const MainMenu = () => {
 					fontSize="md"
 					fontWeight="medium"
 					color="gray.500"
-					_hover={{ textDecoration: "none", color: "brida.100" }}
+					transition={"all .30s ease-in-out"}
+					_hover={{
+						textDecoration: "none",
+						color: "brida.100",
+						bgGradient: "linear(to-r, gray.100, gray.300)",
+						bgRepeat: "no-repeat",
+						bgSize: "100% 0.7em",
+						bgPosition: "0 88%",
+					}}
 				>
 					Edukasi
 				</Link>
